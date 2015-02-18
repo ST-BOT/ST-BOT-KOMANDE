@@ -88,8 +88,8 @@ Korisnik
 |!vreme | | vreme za koje puštaš |
 |!fb | | link facebook stranice |
 |!pomoc | | pomoć za početnike na plug-u |
-|!udji | | priključi se ruletu |
-|!izadji | | izlaz iz ruleta |
+|!join | | priključi se ruletu |
+|!leave | | izlaz iz ruleta |
 |!link | | link trenutne pesme |
 |!op | | nedostupno |
 |!ping | | pong! |
