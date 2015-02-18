@@ -50,7 +50,7 @@ Bouncer
 |!eta | @korisnik | pokaži za koliko korisnik pušta |
 |!filter | | omogući/onemogući chat filter |
 |!uvreme | @korisnik | pokaži koliko dugo je korisnik u sobi |
-|!kik | (X) | kikuj korisnika na X minuta, podrazumevano je  0.25 minuta (15 sekundi) |
+|!kik | @korisnik X | kikuj korisnika na X minuta, podrazumevano je  0.25 minuta (15 sekundi) |
 |!gasenje | | ugasi bot-a |
 |!rskip |  | skipuj pesmu i vrati dj-a na poziciju (pozicija se može podesiti sa !rskippoz) |
 |!rskippoz | X | podesi lockskip poziciju |
