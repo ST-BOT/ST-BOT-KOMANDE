@@ -70,7 +70,7 @@ Resident DJ
 |Komanda | Argument |  Deskripcija |
 |:------:|:---------:|:--------------------------------------:|
 |!link | | link trenutne pesme
-
+|!english | | poruka za korisnike da pišu poruke samo na srpskom ili engleskom |
 
 
 Korisnik
@@ -78,7 +78,6 @@ Korisnik
 
 |Komanda | Argument |  Deskripcija |
 |:------:|:---------:|:--------------------------------------:|
-|!pickorita | | jedna specijalna komanda :3 |
 |!love | | ♥ |
 |!autowoot | | link i objašnjenje za instalaciju od autowoot-a |
 |!ba | | tekst o BrandAmbasadorima |
