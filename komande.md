@@ -29,6 +29,7 @@ Bouncer+
 |!bouncer+ | | onemogući bouncer+ |
 |!lock | | zaključaj waitlistu |
 |!lockdown | | onemogući chat za korisnike (samo staff može da cetuje) |
+|!english | | poruka za korisnike da pišu poruke samo na srpskom ili engleskom |
 |!maxlength | X | podesi maksimalnu dužinu pesme |
 |!move | @korisnik X | pomeri korisnika na poziciju X na waitlisti |
 |!remove | @korisnik | ukloni korisnika sa waitliste |
@@ -70,7 +71,6 @@ Resident DJ
 |Komanda | Argument |  Deskripcija |
 |:------:|:---------:|:--------------------------------------:|
 |!link | | link trenutne pesme
-|!english | | poruka za korisnike da pišu poruke samo na srpskom ili engleskom |
 
 
 Korisnik
