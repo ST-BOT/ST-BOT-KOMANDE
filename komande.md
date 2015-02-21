@@ -30,6 +30,7 @@ Bouncer+
 |!lock | | zaključaj waitlistu |
 |!lockdown | | onemogući chat za korisnike (samo staff može da cetuje) |
 |!english | | poruka za korisnike da pišu poruke samo na srpskom ili engleskom |
+|!cookie | @korisnik | kolačić za korisnika |
 |!maxlength | X | podesi maksimalnu dužinu pesme |
 |!move | @korisnik X | pomeri korisnika na poziciju X na waitlisti |
 |!remove | @korisnik | ukloni korisnika sa waitliste |
@@ -82,7 +83,7 @@ Korisnik
 |!autowoot | | link i objašnjenje za instalaciju od autowoot-a |
 |!ba | | tekst o BrandAmbasadorima |
 |!commands | | link komandi |
-|!cookie | @korisnik | kolačić za korisnika |
+|!cookie | @korisnik | komanda nije dostupna za user-e zbog spama |
 |!dc| | vraćanje na poziciju pre diskonektovanja  |
 |!emoji | | link od emoji liste |
 |!eta | | vreme za koje puštaš |
