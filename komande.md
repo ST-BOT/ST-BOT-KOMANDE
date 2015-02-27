@@ -50,6 +50,7 @@ Bouncer
 |!ban | @korisnik | banuj korisnika na 1 dan |
 |!dc | @korisnik | vraćanje korisnika na poziciju pre diskonektovanja |
 |!eta | @korisnik | pokaži za koliko korisnik pušta |
+|!eta | | vreme za koje puštaš |
 |!filter | | omogući/onemogući chat filter |
 |!jointime | @korisnik | pokaži koliko dugo je korisnik u sobi |
 |!kick | @korisnik X | kikuj korisnika na X minuta, podrazumevano je  0.25 minuta (15 sekundi) |
@@ -83,10 +84,10 @@ Korisnik
 |!autowoot | | link i objašnjenje za instalaciju od autowoot-a |
 |!ba | | tekst o BrandAmbasadorima |
 |!commands | | link komandi |
-|!cookie | @korisnik | komanda nije dostupna za user-e zbog spama |
+|!cookie | @korisnik | komanda nije više dostupna za korisnike zbog spama |
 |!dc| | vraćanje na poziciju pre diskonektovanja  |
 |!emoji | | link od emoji liste |
-|!eta | | vreme za koje puštaš |
+|!eta | | komanda nije više dostupna za korisnike zbog spama |
 |!fb | | link facebook stranice |
 |!help | | pomoć za početnike na plug-u |
 |!join | | priključi se ruletu |
