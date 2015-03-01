@@ -1,8 +1,7 @@
 ☆ ST BOT ★ KOMANDE
 ====================
 
-X određeni broj,
-argumenti između ( ) su po izboru
+X=određeni broj
 
 
 Manager
@@ -30,7 +29,7 @@ Bouncer+
 |!lock | | zaključaj waitlistu |
 |!lockdown | | onemogući chat za korisnike (samo staff može da cetuje) |
 |!english | | poruka za korisnike da pišu poruke samo na srpskom ili engleskom |
-|!cookie | @korisnik | kolačić za korisnika |
+|!love | @korisnik | pošalji srca korisniku |
 |!maxlength | X | podesi maksimalnu dužinu pesme |
 |!move | @korisnik X | pomeri korisnika na poziciju X na waitlisti |
 |!remove | @korisnik | ukloni korisnika sa waitliste |
@@ -80,14 +79,12 @@ Korisnik
 
 |Komanda | Argument |  Deskripcija |
 |:------:|:---------:|:--------------------------------------:|
-|!love | | ♥ |
+|!hearts | | ♥ |
 |!autowoot | | link i objašnjenje za instalaciju od autowoot-a |
 |!ba | | tekst o BrandAmbasadorima |
 |!commands | | link komandi |
-|!cookie | @korisnik | komanda nije više dostupna za korisnike zbog spama |
 |!dc| | vraćanje na poziciju pre diskonektovanja  |
 |!emoji | | link od emoji liste |
-|!eta | | komanda nije više dostupna za korisnike zbog spama |
 |!fb | | link facebook stranice |
 |!help | | pomoć za početnike na plug-u |
 |!join | | priključi se ruletu |
