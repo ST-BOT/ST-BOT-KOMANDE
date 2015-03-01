@@ -66,14 +66,6 @@ Bouncer
 |!unmute | | unmutiraj korisnika |
 |!voteratio | @korisnik | prikaži vote statistiku od korisnika |
 
-Resident DJ
------------
-
-|Komanda | Argument |  Deskripcija |
-|:------:|:---------:|:--------------------------------------:|
-|!link | | link trenutne pesme
-
-
 Korisnik
 ----
 
