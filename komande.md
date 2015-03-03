@@ -54,7 +54,7 @@ Bouncer
 |!jointime | @korisnik | pokaži koliko dugo je korisnik u sobi |
 |!kick | @korisnik X | kikuj korisnika na X minuta, podrazumevano je  0.25 minuta (15 sekundi) |
 |!kill | | ugasi bot-a |
-|!lockskip |  | skipuj pesmu i vrati dj-a na poziciju (pozicija se može podesiti sa !rskippoz) |
+|!lockskip |  | skipuj pesmu i vrati dj-a na poziciju (pozicija se može podesiti sa !lockskippos) |
 |!lockskippos | X | podesi lockskip poziciju |
 |!motd | X poruka | podesi MOTD (X=interval) |
 |!togglemotd | | omogući/onemogući MOTD |
