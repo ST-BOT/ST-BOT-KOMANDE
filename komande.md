@@ -72,7 +72,7 @@ Korisnik
 |Komanda | Argument |  Deskripcija |
 |:------:|:---------:|:--------------------------------------:|
 |!hearts | | ♥ |
-|!autowoot | | link i objašnjenje za instalaciju od autowoot-a |
+|!autowoot | | link i objašnjenje za instalaciju za autowoot-a |
 |!ba | | tekst o BrandAmbasadorima |
 |!commands | | link komandi |
 |!dc| | vraćanje na poziciju pre diskonektovanja  |
@@ -84,7 +84,7 @@ Korisnik
 |!link | | link trenutne pesme |
 |!op | | nedostupno |
 |!ping | | pong! |
-|!pravila | | pravila |
+|!rules | | pravila |
 |!theme | | nedostupno |
-|!website | | nedostupno |
+|!web | | nedostupno |
 |!yt | | linkovi youtube kanala |
