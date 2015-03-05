@@ -11,6 +11,8 @@ Manager
 |:------:|:---------:|:--------------------------------------:|
 |!afklimit | X | podesi maksimalno afk vreme |
 |!clearchat | |očisti chat |
+|!lockskip |  | skipuj pesmu i vrati dj-a na poziciju (pozicija se može podesiti sa !lockskippos) |
+|!lockskippos | X | podesi lockskip poziciju |
 |!cycle | | omogući/onemogući DJ cycle |
 |!cycletimer | X | podesi maksimalno DJ cycle vreme kada je omogućen cycleguard |
 |!refresh | |  osveži browser na kojem radi bot |
@@ -54,8 +56,6 @@ Bouncer
 |!jointime | @korisnik | pokaži koliko dugo je korisnik u sobi |
 |!kick | @korisnik X | kikuj korisnika na X minuta, podrazumevano je  0.25 minuta (15 sekundi) |
 |!kill | | ugasi bot-a |
-|!lockskip |  | skipuj pesmu i vrati dj-a na poziciju (pozicija se može podesiti sa !lockskippos) |
-|!lockskippos | X | podesi lockskip poziciju |
 |!motd | X poruka | podesi MOTD (X=interval) |
 |!togglemotd | | omogući/onemogući MOTD |
 |!mute | @korisnik X | mutiraj korisnika, na X minuta (X=15,30,45) |
