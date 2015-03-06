@@ -10,12 +10,12 @@ Manager
 |Komanda | Argument |  Deskripcija |
 |:------:|:---------:|:--------------------------------------:|
 |!afklimit | X | podesi maksimalno afk vreme |
-|!clearchat | |očisti chat |
-|!lockskip |  | skipuj pesmu i vrati dj-a na poziciju (pozicija se može podesiti sa !lockskippos) |
+|!clearchat | / |očisti chat |
+|!lockskip | /  | skipuj pesmu i vrati dj-a na poziciju (pozicija se može podesiti sa !lockskippos) |
 |!lockskippos | X | podesi lockskip poziciju |
-|!cycle | | omogući/onemogući DJ cycle |
+|!cycle | / | omogući/onemogući DJ cycle |
 |!cycletimer | X | podesi maksimalno DJ cycle vreme kada je omogućen cycleguard |
-|!refresh | |  osveži browser na kojem radi bot |
+|!refresh | / |  osveži browser na kojem radi bot |
 |!usercmdcd | X | podesi zamrzavanje komandi za user-e |
 |!voteskip | X | podesi voteskip limit. |
 
@@ -25,20 +25,20 @@ Bouncer+
 |Komanda | Argument |  Deskripcija |
 |:------:|:---------:|:--------------------------------------:|
 |!add | @korisnik | dodaj user-a na waitlistu |
-|!afkremoval | | afk uklanjanje |
-|!autoskip | | automatsko skipovanje pesama koje su ubagovale |
-|!bouncer+ | | onemogući bouncer+ |
-|!lock | | zaključaj waitlistu |
-|!lockdown | | onemogući chat za korisnike (samo staff može da cetuje) |
-|!english | | poruka za korisnike da pišu poruke samo na srpskom ili engleskom |
+|!afkremoval | / | afk uklanjanje |
+|!autoskip | / | automatsko skipovanje pesama koje su ubagovale |
+|!bouncer+ | / | onemogući bouncer+ |
+|!lock | / | zaključaj waitlistu |
+|!lockdown | / | onemogući chat za korisnike (samo staff može da cetuje) |
+|!english | / | poruka za korisnike da pišu poruke samo na srpskom ili engleskom |
 |!love | @korisnik | pošalji srca korisniku |
 |!maxlength | X | podesi maksimalnu dužinu pesme |
 |!move | @korisnik X | pomeri korisnika na poziciju X na waitlisti |
 |!remove | @korisnik | ukloni korisnika sa waitliste |
-|!roulette | | pokreni rulet |
-|!songstats | | omogući/onemogući statistiku pesme |
-|!unlock | | odkljucaj waitlistu |
-|!welcome | | omogući/onemogući pozdravnu poruku |
+|!roulette | / | pokreni rulet |
+|!songstats | / | omogući/onemogući statistiku pesme |
+|!unlock | / | odkljucaj waitlistu |
+|!welcome | / | omogući/onemogući pozdravnu poruku |
 
 Bouncer
 -------
@@ -51,20 +51,29 @@ Bouncer
 |!ban | @korisnik | banuj korisnika na 1 dan |
 |!dc | @korisnik | vraćanje korisnika na poziciju pre diskonektovanja |
 |!eta | @korisnik | pokaži za koliko korisnik pušta |
-|!eta | | vreme za koje puštaš |
-|!filter | | omogući/onemogući chat filter |
+|!eta | / | vreme za koje puštaš |
+|!filter | / | omogući/onemogući chat filter |
 |!jointime | @korisnik | pokaži koliko dugo je korisnik u sobi |
 |!kick | @korisnik X | kikuj korisnika na X minuta, podrazumevano je  0.25 minuta (15 sekundi) |
-|!kill | | ugasi bot-a |
+|!kill | / | ugasi bot-a |
 |!motd | X poruka | podesi MOTD (X=interval) |
 |!togglemotd | | omogući/onemogući MOTD |
 |!mute | @korisnik X | mutiraj korisnika, na X minuta (X=15,30,45) |
-|!reload | | ponovo pokreni bota |
-|!skip | | skipuj trenutnu pesmu |
-|!status | | prikaži status bot-a |
+|!reload | / | ponovo pokreni bota |
+|!skip | / | skipuj trenutnu pesmu |
+|!status | / | prikaži status bot-a |
 |!unban | @korisnik | unban-uj korisnika |
-|!unmute | | unmutiraj korisnika |
+|!unmute | / | unmutiraj korisnika |
 |!voteratio | @korisnik | prikaži vote statistiku od korisnika |
+
+Resident DJ
+-----------
+
+|Komanda | Argument |  Deskripcija |
+|:------:|:---------:|:--------------------------------------:|
+|!link | / | link trenutne pesme |
+|!love | @korisnik | pošalji srca korisniku |
+|!english | / | zamoli korisnike da pričaju samo srpski i engleski |
 
 Korisnik
 ----
