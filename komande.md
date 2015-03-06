@@ -7,7 +7,7 @@
 
 
 ★ Manager ★
--------
+-------------
 
 |Komanda | Argument |  Deskripcija |
 |:------:|:---------:|:--------------------------------------:|
@@ -22,7 +22,7 @@
 |!voteskip | X | podesi voteskip limit. |
 
 ★ Bouncer+ ★
---------
+--------------
 
 |Komanda | Argument |  Deskripcija |
 |:------:|:---------:|:--------------------------------------:|
@@ -41,7 +41,7 @@
 |!welcome | / | omogući/onemogući pozdravnu poruku |
 
 ★ Bouncer ★
--------
+-------------
 
 |Komanda | Argument|  Deskripcija |
 |:------:|:---------:|:--------------------------------------:|
@@ -67,7 +67,7 @@
 |!voteratio | @korisnik | prikaži vote statistiku od korisnika |
 
 ★ Resident DJ ★
------------
+-----------------
 
 |Komanda | Argument |  Deskripcija |
 |:------:|:---------:|:--------------------------------------:|
@@ -77,8 +77,8 @@
 |!eta | @korisnik | pokaži za koliko korisnik pušta |
 |!eta | / | vreme za koje puštaš |
 
-Korisnik
-----
+★ Korisnik ★
+---------------
 
 |Komanda | Argument |  Deskripcija |
 |:------:|:---------:|:--------------------------------------:|
