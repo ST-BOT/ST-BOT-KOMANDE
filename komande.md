@@ -1,10 +1,12 @@
 ☆ ST BOT ★ KOMANDE
 ====================
 
-X=određeni broj
+| https://plug.dj/st-army-elite |
+
+| X=određeni broj |
 
 
-Manager
+★ Manager ★
 -------
 
 |Komanda | Argument |  Deskripcija |
@@ -19,19 +21,17 @@ Manager
 |!usercmdcd | X | podesi zamrzavanje komandi za user-e |
 |!voteskip | X | podesi voteskip limit. |
 
-Bouncer+
+★ Bouncer+ ★
 --------
 
 |Komanda | Argument |  Deskripcija |
 |:------:|:---------:|:--------------------------------------:|
-|!add | @korisnik | dodaj user-a na waitlistu |
+|!add | @korisnik | dodaj korisnika na waitlistu |
 |!afkremoval | / | afk uklanjanje |
 |!autoskip | / | automatsko skipovanje pesama koje su ubagovale |
 |!bouncer+ | / | onemogući bouncer+ |
 |!lock | / | zaključaj waitlistu |
 |!lockdown | / | onemogući chat za korisnike (samo staff može da cetuje) |
-|!english | / | poruka za korisnike da pišu poruke samo na srpskom ili engleskom |
-|!love | @korisnik | pošalji srca korisniku |
 |!maxlength | X | podesi maksimalnu dužinu pesme |
 |!move | @korisnik X | pomeri korisnika na poziciju X na waitlisti |
 |!remove | @korisnik | ukloni korisnika sa waitliste |
@@ -40,7 +40,7 @@ Bouncer+
 |!unlock | / | odkljucaj waitlistu |
 |!welcome | / | omogući/onemogući pozdravnu poruku |
 
-Bouncer
+★ Bouncer ★
 -------
 
 |Komanda | Argument|  Deskripcija |
@@ -66,7 +66,7 @@ Bouncer
 |!unmute | / | unmutiraj korisnika |
 |!voteratio | @korisnik | prikaži vote statistiku od korisnika |
 
-Resident DJ
+★ Resident DJ ★
 -----------
 
 |Komanda | Argument |  Deskripcija |
@@ -74,6 +74,8 @@ Resident DJ
 |!link | / | link trenutne pesme |
 |!love | @korisnik | pošalji srca korisniku |
 |!english | / | zamoli korisnike da pričaju samo srpski i engleski |
+|!eta | @korisnik | pokaži za koliko korisnik pušta |
+|!eta | / | vreme za koje puštaš |
 
 Korisnik
 ----
