@@ -56,6 +56,7 @@
 |!jointime | @korisnik | pokaži koliko dugo je korisnik u sobi |
 |!kick | @korisnik X | kikuj korisnika na X minuta, podrazumevano je  0.25 minuta (15 sekundi) |
 |!kill | / | ugasi bot-a |
+|!eta | @korisnik | pokaži za koliko korisnik pušta |
 |!motd | X poruka | podesi MOTD (X=interval) |
 |!togglemotd | | omogući/onemogući MOTD |
 |!mute | @korisnik X | mutiraj korisnika, na X minuta (X=15,30,45) |
@@ -74,7 +75,6 @@
 |!link | / | link trenutne pesme |
 |!love | @korisnik | pošalji srca korisniku |
 |!english | / | zamoli korisnike da pričaju samo srpski i engleski |
-|!eta | @korisnik | pokaži za koliko korisnik pušta |
 |!eta | / | vreme za koje puštaš |
 
 ★ Korisnik ★
