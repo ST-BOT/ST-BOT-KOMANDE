@@ -1,7 +1,7 @@
 ☆ ST BOT ★ KOMANDE
 ====================
 
-| https://plug.dj/st-army-elite |
+| plug.dj:https://plug.dj/st-army-elite |
 
 | X=određeni broj |
 
