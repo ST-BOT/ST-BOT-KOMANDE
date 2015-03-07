@@ -6,8 +6,8 @@
  X=određeni broj 
 
  /=nema argumenta 
-
-
+ 
+ 
 ★ Manager ★
 -------------
 
