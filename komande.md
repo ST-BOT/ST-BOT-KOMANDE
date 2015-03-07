@@ -3,8 +3,9 @@
 
 | plug.dj:https://plug.dj/st-army-elite |
 
-| X=određeni broj |
-| /=nema argumenta |
+ X=određeni broj 
+
+ /=nema argumenta 
 
 
 ★ Manager ★
