@@ -72,7 +72,7 @@
 |!reload | / | ponovo pokreni bota |
 |!skip | / | skipuj trenutnu pesmu |
 |!status | / | prikaži status bot-a |
-|!unmute | / | unmutiraj korisnika |
+|!unmute | @korisnik | unmutiraj korisnika |
 |!voteratio | @korisnik | prikaži vote statistiku od korisnika |
 
 ★ Korisnik ★
