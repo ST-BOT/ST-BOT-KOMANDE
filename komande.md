@@ -80,19 +80,19 @@
 
 |Komanda | Argument |  Deskripcija |
 |:------:|:---------:|:--------------------------------------:|
-|!hearts | | ♥ |
-|!autowoot | | link i objašnjenje za instalaciju za autowoot-a |
-|!ba | | tekst o BrandAmbasadorima |
-|!commands | | link komandi |
+|!hearts | / | ♥ |
+|!autowoot | / | link i objašnjenje za instalaciju za autowoot-a |
+|!ba | / | tekst o BrandAmbasadorima |
+|!commands | / | link komandi |
 |!link | / | link trenutne pesme |
-|!dc| | vraćanje na poziciju pre diskonektovanja  |
-|!emoji | | link od emoji liste |
-|!fb | | link facebook stranice |
-|!help | | pomoć za početnike na plug-u |
-|!join | | priključi se ruletu |
-|!leave | | izlaz iz ruleta |
-|!link | | link trenutne pesme |
-|!op | | nedostupno |
-|!ping | | pong! |
-|!rules | | pravila |
-|!yt | | linkovi youtube kanala |
+|!dc| / | vraćanje na poziciju pre diskonektovanja  |
+|!emoji | / | link od emoji liste |
+|!fb | / | link facebook stranice |
+|!help | / | pomoć za početnike na plug-u |
+|!join | / | priključi se ruletu |
+|!leave | / | izlaz iz ruleta |
+|!link | / | link trenutne pesme |
+|!op | / | nedostupno |
+|!ping | / | pong! |
+|!rules | / | pravila |
+|!yt | / | linkovi youtube kanala |
