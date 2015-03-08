@@ -37,6 +37,7 @@
 |!lock | / | zaključaj waitlistu |
 |!lockdown | / | onemogući chat za korisnike (samo staff može da cetuje) |
 |!maxlength | X | podesi maksimalnu dužinu pesme |
+|!banf | @korisnik | banuj korisnika zauvek |
 |!move | @korisnik X | pomeri korisnika na poziciju X na waitlisti |
 |!swap | @korisnik1 @korisnik2 | zameni mesta korisnika |
 |!remove | @korisnik | ukloni korisnika sa waitliste |
@@ -54,7 +55,8 @@
 |!active | X | pokaži koliko je korisnika bilo aktivno u poslednjih X minuta. |
 |!afkreset | @korisnik | restartuj AFK vreme od nekog korisnika |
 |!afktime| @korisnik | pokaži koliko je dugo AFK korisnik |
-|!ban | @korisnik | banuj korisnika na 1 dan |
+|!ban | @korisnik | banuj korisnika na 1 sat |
+|!band | @korisnik | banuj korisnika na 1 dan |
 |!dc | @korisnik | vraćanje korisnika na poziciju pre diskonektovanja |
 |!eta | @korisnik | pokaži za koliko korisnik pušta |
 |!eta | / | vreme za koje puštaš |
