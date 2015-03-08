@@ -65,7 +65,6 @@
 |!love | @korisnik | pošalji srca korisniku |
 |!english | / | zamoli korisnike da pričaju samo srpski i engleski |
 |!kick | @korisnik X | kikuj korisnika na X minuta, podrazumevano je  0.25 minuta (15 sekundi) |
-|!eta | @korisnik | pokaži za koliko korisnik pušta |
 |!motd | X poruka | podesi MOTD (X=interval) |
 |!togglemotd | | omogući/onemogući MOTD |
 |!mute | @korisnik X | mutiraj korisnika, na X minuta (X=15,30,45) |
@@ -91,7 +90,6 @@
 |!help | / | pomoć za početnike na plug-u |
 |!join | / | priključi se ruletu |
 |!leave | / | izlaz iz ruleta |
-|!link | / | link trenutne pesme |
 |!op | / | nedostupno |
 |!ping | / | pong! |
 |!rules | / | pravila |
