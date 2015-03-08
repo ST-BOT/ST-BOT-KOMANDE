@@ -95,6 +95,4 @@
 |!op | | nedostupno |
 |!ping | | pong! |
 |!rules | | pravila |
-|!theme | | nedostupno |
-|!web | | nedostupno |
 |!yt | | linkovi youtube kanala |
