@@ -35,7 +35,7 @@
 |!afkremoval | / | afk uklanjanje |
 |!autoskip | / | automatsko skipovanje pesama koje su ubagovale |
 |!lock | / | zaključaj waitlistu |
-|!lockdown | / | onemogući chat za korisnike (samo staff može da cetuje) |
+|!lockdown | / | onemogući chat za korisnike (samo staff može da četuje) |
 |!maxlength | X | podesi maksimalnu dužinu pesme |
 |!banf | @korisnik | banuj korisnika zauvek |
 |!move | @korisnik X | pomeri korisnika na poziciju X na waitlisti |
@@ -44,7 +44,7 @@
 |!unban | @korisnik | unban-uj korisnika |
 |!roulette | / | pokreni rulet |
 |!songstats | / | omogući/onemogući statistiku pesme |
-|!unlock | / | odkljucaj waitlistu |
+|!unlock | / | odključaj waitlistu |
 |!welcome | / | omogući/onemogući pozdravnu poruku |
 
 ★ Bouncer ★
