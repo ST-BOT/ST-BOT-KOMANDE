@@ -37,7 +37,6 @@
 |!lock | / | zaključaj waitlistu |
 |!lockdown | / | onemogući chat za korisnike (samo staff može da četuje) |
 |!maxlength | X | podesi maksimalnu dužinu pesme |
-|!banf | @korisnik | banuj korisnika zauvek |
 |!move | @korisnik X | pomeri korisnika na poziciju X na waitlisti |
 |!swap | @korisnik1 @korisnik2 | zameni mesta korisnika |
 |!remove | @korisnik | ukloni korisnika sa waitliste |
@@ -55,8 +54,7 @@
 |!active | X | pokaži koliko je korisnika bilo aktivno u poslednjih X minuta. |
 |!afkreset | @korisnik | restartuj AFK vreme od nekog korisnika |
 |!afktime| @korisnik | pokaži koliko je dugo AFK korisnik |
-|!ban | @korisnik | banuj korisnika na 1 sat |
-|!band | @korisnik | banuj korisnika na 1 dan |
+|!ban | @korisnik | banuj zauvek korinskika |
 |!dc | @korisnik | vraćanje korisnika na poziciju pre diskonektovanja |
 |!eta | @korisnik | pokaži za koliko korisnik pušta |
 |!eta | / | vreme za koje puštaš |
@@ -66,9 +64,7 @@
 |!english | / | zamoli korisnike da pričaju samo srpski i engleski |
 |!kick | @korisnik X | kikuj korisnika na X minuta, podrazumevano je  0.25 minuta (15 sekundi) |
 |!motd | X | podesi MOTD interval |
-|!autoroulette | X | podesi interval automatskog paljenja ruleta (X=broj pesama) |
 |!togglemotd | | omogući/onemogući MOTD |
-|!toggleroulette | | omogući/onemogući automatsko paljenje ruleta |
 |!mute | @korisnik X | mutiraj korisnika, na X minuta (X=15,30,45) |
 |!reload | / | ponovo pokreni bota |
 |!skip | / | skipuj trenutnu pesmu |
