@@ -65,6 +65,7 @@
 |!kick | @korisnik X | kikuj korisnika na X minuta, podrazumevano je  0.25 minuta (15 sekundi) |
 |!motd | X | podesi MOTD interval |
 |!togglemotd | | omogući/onemogući MOTD |
+|!toggleroulette | / | omogući/onemogući automatsko paljenje ruleta |
 |!mute | @korisnik X | mutiraj korisnika, na X minuta (X=15,30,45) |
 |!reload | / | ponovo pokreni bota |
 |!skip | / | skipuj trenutnu pesmu |
