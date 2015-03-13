@@ -83,14 +83,14 @@
 |!autowoot | / | link i objašnjenje za instalaciju za autowoot-a |
 |!ba | / | tekst o BrandAmbasadorima |
 |!commands | / | link komandi |
-|!link | / | link trenutne pesme |
+|!link | / | nedostupno |
 |!dc| / | vraćanje na poziciju pre diskonektovanja  |
 |!emoji | / | link od emoji liste |
-|!fb | / | link facebook stranice |
+|!fb | / | facebook stranice |
 |!help | / | pomoć za početnike na plug-u |
 |!join | / | priključi se ruletu |
 |!leave | / | izlaz iz ruleta |
 |!op | / | nedostupno |
 |!ping | / | pong! |
 |!rules | / | pravila |
-|!yt | / | linkovi youtube kanala |
+|!yt | / | youtube kanali |
