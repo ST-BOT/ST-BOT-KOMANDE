@@ -94,3 +94,4 @@
 |!ping | / | pong! |
 |!rules | / | pravila |
 |!yt | / | youtube kanali |
+|!web | / | link web sajta |
