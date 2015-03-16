@@ -86,7 +86,7 @@
 |!link | / | nedostupno |
 |!dc| / | vraćanje na poziciju pre diskonektovanja  |
 |!emoji | / | link od emoji liste |
-|!fb | / | facebook stranice |
+|!fb | / | nedostupno |
 |!help | / | pomoć za početnike na plug-u |
 |!join | / | priključi se ruletu |
 |!leave | / | izlaz iz ruleta |
