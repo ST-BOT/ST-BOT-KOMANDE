@@ -62,8 +62,8 @@
 |!filter | / | omogući/onemogući chat filter |
 |!jointime | @korisnik | pokaži koliko dugo je korisnik u sobi |
 |!love | @korisnik | pošalji srca korisniku |
-|!english | / | zamoli korisnike da pričaju samo srpski i engleski |
-|!kick | @korisnik X | kikuj korisnika na X minuta, podrazumevano je  0.25 minuta (15 sekundi) |
+|!english | @korisnik | zamoli korisnika da priča samo srpski ili engleski |
+|!kick | @korisnik X | NEDOSTUPNO|
 |!motd | X | podesi MOTD interval |
 |!togglemotd | / | omogući/onemogući MOTD |
 |!toggleroulette | / | omogući/onemogući automatsko paljenje ruleta |
@@ -71,7 +71,7 @@
 |!reload | / | ponovo pokreni bota |
 |!skip | / | skipuj trenutnu pesmu |
 |!status | / | prikaži status bot-a |
-|!unmute | @korisnik | unmutiraj korisnika |
+|!unmute | @korisnik | unmutiraj korisnika|
 |!voteratio | @korisnik | prikaži vote statistiku od korisnika |
 
 ★ Korisnik ★
@@ -80,17 +80,18 @@
 |Komanda | Argument |  Deskripcija |
 |:------:|:---------:|:--------------------------------------:|
 |!hearts | / | ♥ |
+|!love | @korisnik | pošalji srca korisniku |
 |!autowoot | / | link i objašnjenje za instalaciju za autowoot-a |
 |!ba | / | tekst o BrandAmbasadorima |
 |!commands | / | link komandi |
-|!link | / | nedostupno |
+|!link | / | link trenutne pesme |
 |!dc| / | vraćanje na poziciju pre diskonektovanja  |
 |!emoji | / | link od emoji liste |
-|!fb | / | nedostupno |
+|!fb | / | NEDOSTUPNO |
 |!help | / | pomoć za početnike na plug-u |
 |!join | / | priključi se ruletu |
 |!leave | / | izlaz iz ruleta |
-|!op | / | nedostupno |
+|!op | / | NEDOSTUPNO |
 |!ping | / | pong! |
 |!rules | / | pravila |
 |!yt | / | youtube kanali |
