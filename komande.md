@@ -21,6 +21,7 @@
 |!voteskip | X | podesi voteskip limit. |
 |!bouncer+ | / | omogući/onemogući bouncer+ |
 |!kill | / | ugasi bot-a |
+|!jointime | @korisnik | pokaži koliko dugo je korisnik u sobi |
 |!cycle | / | omogući/onemogući DJ cycle |
 |!cycletimer | X | podesi maksimalno DJ cycle vreme kada je omogućen cycleguard |
 |!refresh | / |  osveži browser na kojem radi bot |
@@ -60,8 +61,6 @@
 |!eta | @korisnik | pokaži za koliko korisnik pušta |
 |!eta | / | vreme za koje puštaš |
 |!filter | / | omogući/onemogući chat filter |
-|!jointime | @korisnik | pokaži koliko dugo je korisnik u sobi |
-|!love | @korisnik | pošalji srca korisniku |
 |!english | @korisnik | zamoli korisnika da priča samo srpski ili engleski |
 |!kick | @korisnik X | NEDOSTUPNO|
 |!motd | X | podesi MOTD interval |
