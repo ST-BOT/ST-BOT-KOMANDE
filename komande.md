@@ -70,6 +70,7 @@
 |!reload | / | ponovo pokreni bota |
 |!skip | / | skipuj trenutnu pesmu |
 |!status | / | prikaži status bot-a |
+|!urules | @korisnik | zamoli korisnika da pročita pravila |
 |!unmute | @korisnik | unmutiraj korisnika|
 |!voteratio | @korisnik | prikaži vote statistiku od korisnika |
 
