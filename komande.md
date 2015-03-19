@@ -41,7 +41,8 @@
 |!move | @korisnik X | pomeri korisnika na poziciju X na waitlisti |
 |!swap | @korisnik1 @korisnik2 | zameni mesta korisnika |
 |!remove | @korisnik | ukloni korisnika sa waitliste |
-|!unban | @korisnik | unban-uj korisnika |
+|!unban | @korisnik | NEDOSTUPNO |
+|!unmute | @korisnik | NEDOSTUPNO |
 |!roulette | / | pokreni rulet |
 |!songstats | / | omogući/onemogući statistiku pesme |
 |!unlock | / | odključaj waitlistu |
@@ -62,7 +63,7 @@
 |!eta | / | vreme za koje puštaš |
 |!filter | / | omogući/onemogući chat filter |
 |!english | @korisnik | zamoli korisnika da priča samo srpski ili engleski |
-|!kick | @korisnik X | NEDOSTUPNO|
+|!kick | @korisnik X | NEDOSTUPNO |
 |!motd | X | podesi MOTD interval |
 |!togglemotd | / | omogući/onemogući MOTD |
 |!toggleroulette | / | omogući/onemogući automatsko paljenje ruleta |
@@ -71,7 +72,6 @@
 |!skip | / | skipuj trenutnu pesmu |
 |!status | / | prikaži status bot-a |
 |!urules | @korisnik | zamoli korisnika da pročita pravila |
-|!unmute | @korisnik | unmutiraj korisnika|
 |!voteratio | @korisnik | prikaži vote statistiku od korisnika |
 
 ★ Korisnik ★
