@@ -68,7 +68,7 @@
 |!togglemotd | / | omogući/onemogući MOTD |
 |!toggleroulette | / | omogući/onemogući automatsko paljenje ruleta |
 |!mute | @korisnik X | mutiraj korisnika, na X minuta (X=15,30,45) |
-|!reload | / | ponovo pokreni bota |
+|!reload | / | NEDOSTUPNO |
 |!skip | / | skipuj trenutnu pesmu |
 |!status | / | prikaži status bot-a |
 |!urules | @korisnik | zamoli korisnika da pročita pravila |
