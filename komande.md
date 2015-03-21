@@ -92,6 +92,7 @@
 |!help | / | pomoć za početnike na plug-u |
 |!join | / | priključi se ruletu |
 |!leave | / | izlaz iz ruleta |
+|!meh | / | ?????????? |
 |!op | / | NEDOSTUPNO |
 |!ping | / | pong! |
 |!rules | / | pravila |
