@@ -46,7 +46,7 @@
 |!roulette | / | pokreni rulet |
 |!songstats | / | omogući/onemogući statistiku pesme |
 |!unlock | / | odključaj waitlistu |
-|!historyskip | / | omogući/onemogući skipovanje istorije |
+|!historyskip | / | omogući/onemogući skipovanje istorije (TRENUTNO NE RADI) |
 |!welcome | / | omogući/onemogući pozdravnu poruku |
 
 ★ Bouncer ★
@@ -60,7 +60,6 @@
 |!ban | @korisnik | banuj zauvek korinskika |
 |!dc | @korisnik | vraćanje korisnika na poziciju pre diskonektovanja |
 |!eta | @korisnik | pokaži za koliko korisnik pušta |
-|!eta | / | vreme za koje puštaš |
 |!filter | / | omogući/onemogući chat filter |
 |!english | @korisnik | zamoli korisnika da priča samo srpski ili engleski |
 |!kick | @korisnik X | NEDOSTUPNO |
@@ -81,20 +80,22 @@
 |:------:|:---------:|:--------------------------------------:|
 |!hearts | / | ♥ |
 |!love | @korisnik | pošalji srca korisniku |
-|!autowoot | / | link i objašnjenje za instalaciju za autowoot-a |
+|!aw | / | link i objašnjenje za instalaciju za autowoot-a |
 |!ba | / | tekst o BrandAmbasadorima |
-|!commands | / | link komandi |
-|!link | / | link trenutne pesme |
+|!cmd | / | link za komande |
+|!link | / | TRENUTNO NEDOSTUPNO ZA KORISNIKE |
 |!dc| / | vraćanje na poziciju pre diskonektovanja  |
 |!emoji | / | link od emoji liste |
+|!eta | / | vreme za koje puštaš |
 |!fb | / | NEDOSTUPNO |
 |!pn | / | PlugNotes (objašnjenje) |
 |!help | / | pomoć za početnike na plug-u |
 |!join | / | priključi se ruletu |
 |!leave | / | izlaz iz ruleta |
 |!meh | / | ?????????? |
+|!meow | / | gif |
 |!op | / | NEDOSTUPNO |
-|!ping | / | pong! |
+|!ping | / | ping-pong |
 |!rules | / | pravila |
 |!yt | / | youtube kanali |
 |!web | / | link web sajta |
