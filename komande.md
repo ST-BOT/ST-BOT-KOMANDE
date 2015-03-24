@@ -83,11 +83,13 @@
 |!aw | / | link i objašnjenje za instalaciju za autowoot-a |
 |!ba | / | tekst o BrandAmbasadorima |
 |!cmd | / | link za komande |
+|!clap | / | gif |
 |!link | / | TRENUTNO NEDOSTUPNO ZA KORISNIKE |
 |!dc| / | vraćanje na poziciju pre diskonektovanja  |
 |!emoji | / | link od emoji liste |
 |!eta | / | vreme za koje puštaš |
 |!fb | / | NEDOSTUPNO |
+|!facepalm | / | gif |
 |!pn | / | PlugNotes (objašnjenje) |
 |!help | / | pomoć za početnike na plug-u |
 |!join | / | priključi se ruletu |
