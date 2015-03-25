@@ -79,7 +79,7 @@
 |Komanda | Argument |  Deskripcija |
 |:------:|:---------:|:--------------------------------------:|
 |!hearts | / | ♥ |
-|!love | @korisnik | pošalji srca korisniku |
+|!love | @korisnik | pošalji srce korisniku |
 |!aw | / | link i objašnjenje za instalaciju za autowoot-a |
 |!ba | / | tekst o BrandAmbasadorima |
 |!cmd | / | link za komande |
