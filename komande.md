@@ -99,5 +99,6 @@
 |!op | / | NEDOSTUPNO |
 |!ping | / | ping-pong |
 |!rules | / | pravila |
+|!rekt | / | gif |
 |!yt | / | youtube kanali |
 |!web | / | link web sajta |
