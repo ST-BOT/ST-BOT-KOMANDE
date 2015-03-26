@@ -57,13 +57,16 @@
 |!active | X | pokaži koliko je korisnika bilo aktivno u poslednjih X minuta. |
 |!afkreset | @korisnik | restartuj AFK vreme od nekog korisnika |
 |!afktime| @korisnik | pokaži koliko je dugo AFK korisnik |
-|!ban | @korisnik | banuj zauvek korinskika |
+|!ban | @korisnik | banuj korisnika na 1 sat |
+|!dban | @korisnik | banuj korisnika na 1 dan |
+|!pban | @korisnik | banuj zauvek korinskika |
 |!dc | @korisnik | vraćanje korisnika na poziciju pre diskonektovanja |
 |!eta | @korisnik | pokaži za koliko korisnik pušta |
 |!filter | / | omogući/onemogući chat filter |
 |!english | @korisnik | zamoli korisnika da priča samo srpski ili engleski |
 |!kick | @korisnik X | NEDOSTUPNO |
 |!motd | X | podesi MOTD interval |
+|!new | / | novo na ST BOT-u |
 |!togglemotd | / | omogući/onemogući MOTD |
 |!toggleroulette | / | omogući/onemogući automatsko paljenje ruleta |
 |!mute | @korisnik X | mutiraj korisnika, na X minuta (X=15,30,45) |
