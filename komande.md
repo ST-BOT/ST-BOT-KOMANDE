@@ -85,6 +85,7 @@
 |!love | @korisnik | pošalji srce korisniku |
 |!aw | / | link i objašnjenje za instalaciju za autowoot-a |
 |!ba | / | tekst o BrandAmbasadorima |
+|!cookie | @korisnik | kolačić za nekog korisnika |
 |!cmd | / | link za komande |
 |!clap | / | gif |
 |!link | / | TRENUTNO NEDOSTUPNO ZA KORISNIKE |
@@ -95,6 +96,7 @@
 |!facepalm | / | gif |
 |!pn | / | PlugNotes (objašnjenje) |
 |!help | / | pomoć za početnike na plug-u |
+|!iroulette | / | rulet (objašnjenje) |
 |!join | / | priključi se ruletu |
 |!leave | / | izlaz iz ruleta |
 |!meh | / | ?????????? |
@@ -104,4 +106,5 @@
 |!rules | / | pravila |
 |!rekt | / | gif |
 |!yt | / | youtube kanali |
+|!fu | / | gif |
 |!web | / | link web sajta |
