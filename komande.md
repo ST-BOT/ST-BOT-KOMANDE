@@ -63,7 +63,7 @@
 |!dc | @korisnik | vraćanje korisnika na poziciju pre diskonektovanja |
 |!eta | @korisnik | pokaži za koliko korisnik pušta |
 |!filter | / | omogući/onemogući chat filter |
-|!english | @korisnik | zamoli korisnika da priča samo srpski ili engleski |
+|!eng | @korisnik | zamoli korisnika da priča samo srpski ili engleski |
 |!kick | @korisnik X | NEDOSTUPNO |
 |!motd | X | podesi MOTD interval |
 |!new | / | novo na ST BOT-u |
