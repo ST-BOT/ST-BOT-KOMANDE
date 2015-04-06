@@ -64,6 +64,7 @@
 |!eta | @korisnik | pokaži za koliko korisnik pušta |
 |!filter | / | omogući/onemogući chat filter |
 |!eng | @korisnik | zamoli korisnika da priča samo srpski ili engleski |
+|!ghostbuster | @korisnik | zamoli korisnika da priča samo srpski ili engleski |
 |!kick | @korisnik X | NEDOSTUPNO |
 |!motd | X | podesi MOTD interval |
 |!new | / | novo na ST BOT-u |
@@ -75,20 +76,24 @@
 |!status | / | prikaži status bot-a |
 |!urules | @korisnik | zamoli korisnika da pročita pravila |
 |!voteratio | @korisnik | prikaži vote statistiku od korisnika |
+|!whois| @korisnik | pokaži informacije o korisniku |
 
 ★ Korisnik ★
 ---------------
 
 |Komanda | Argument |  Deskripcija |
 |:------:|:---------:|:--------------------------------------:|
-|!hearts | / | ♥ |
-|!love | @korisnik | pošalji srce korisniku |
+|!ask | tvoje pitanje | pitaj neko pitanje bot-a |
 |!aw | / | link i objašnjenje za instalaciju za autowoot-a |
 |!ba | / | tekst o BrandAmbasadorima |
 |!cookie | @korisnik | kolačić za nekog korisnika |
 |!cmd | / | link za komande |
 |!clap | / | gif |
+|!hearts | / | ♥ |
+|!gif | / | pošalji nasumičan gif |
+|!gif | tag | pošalji gif pomoću tag-a |
 |!link | / | TRENUTNO NEDOSTUPNO ZA KORISNIKE |
+|!love | @korisnik | pošalji srce korisniku |
 |!dc| / | vraćanje na poziciju pre diskonektovanja  |
 |!emoji | / | link od emoji liste |
 |!eta | / | vreme za koje puštaš |
