@@ -86,8 +86,8 @@
 |Komanda | Argument |  Deskripcija |
 |:------:|:---------:|:--------------------------------------:|
 |!ask | tvoje pitanje | pitaj neko pitanje bot-a |
-|!aw | / | link i objašnjenje za instalaciju za autowoot-a |
-|!ba | / | tekst o BrandAmbasadorima |
+|!aw | / | link i objašnjenje za instalaciju autowoot-a |
+|!ba | / | Ambasadori (objašnjenje) |
 |!cookie | @korisnik | kolačić za nekog korisnika |
 |!cmd | / | link za komande |
 |!clap | / | gif |
