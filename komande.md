@@ -22,6 +22,7 @@
 |!bouncer+ | / | omogući/onemogući bouncer+ |
 |!kill | / | ugasi bot-a |
 |!jointime | @korisnik | pokaži koliko dugo je korisnik u sobi |
+|!logout | / | odjavi nalog na kojem je bot upaljen |
 |!cycle | / | omogući/onemogući DJ cycle |
 |!cycletimer | X | podesi maksimalno DJ cycle vreme kada je omogućen cycleguard |
 |!refresh | / |  osveži browser na kojem radi bot |
