@@ -35,6 +35,7 @@
 |!add | @korisnik | dodaj korisnika na waitlistu |
 |!afkremoval | / | afk uklanjanje |
 |!autoskip | / | automatsko skipovanje pesama koje su ubagovale |
+|!cmddel | / | omogući/onemogući brisanje napisanih komandi |
 |!lock | / | zaključaj waitlistu |
 |!lockdown | / | onemogući chat za korisnike (samo staff može da četuje) |
 |!maxlength | X | podesi maksimalnu dužinu pesme |
