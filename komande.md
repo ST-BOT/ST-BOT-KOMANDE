@@ -101,7 +101,7 @@
 |!eta | / | vreme za koje puštaš |
 |!fb | / | NEDOSTUPNO |
 |!facepalm | / | gif |
-|!pn | / | PlugNotes (objašnjenje) |
+|!sub | / | Pretplatnik (objašnjenje) |
 |!help | / | pomoć za početnike na plug-u |
 |!iroulette | / | rulet (objašnjenje) |
 |!join | / | priključi se ruletu |
