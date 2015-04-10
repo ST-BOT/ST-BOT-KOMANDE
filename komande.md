@@ -56,7 +56,7 @@
 
 |Komanda | Argument|  Deskripcija |
 |:------:|:---------:|:--------------------------------------:|
-|!act | / | prikaži koliko je bot aktivan |
+|!act | / | pokaži koliko je bot aktivan |
 |!active | X | pokaži koliko je korisnika bilo aktivno u poslednjih X minuta. |
 |!afkreset | @korisnik | restartuj AFK vreme od nekog korisnika |
 |!afktime| @korisnik | pokaži koliko je dugo AFK korisnik |
@@ -92,8 +92,8 @@
 |!cmd | / | link za komande |
 |!clap | / | gif |
 |!hearts | / | ♥ |
-|!gif | / | pošalji nasumičan gif |
-|!gif | tag | pošalji gif pomoću tag-a |
+|!gif | / | TRENUTNO NEDOSTUPNO ZA KORISNIKE |
+|!gif | tag | TRENUTNO NEDOSTUPNO ZA KORISNIKE |
 |!link | / | TRENUTNO NEDOSTUPNO ZA KORISNIKE |
 |!love | @korisnik | pošalji srce korisniku |
 |!dc| / | vraćanje na poziciju pre diskonektovanja  |
