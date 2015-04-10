@@ -56,6 +56,7 @@
 
 |Komanda | Argument|  Deskripcija |
 |:------:|:---------:|:--------------------------------------:|
+|!act | / | prikaži koliko je bot aktivan |
 |!active | X | pokaži koliko je korisnika bilo aktivno u poslednjih X minuta. |
 |!afkreset | @korisnik | restartuj AFK vreme od nekog korisnika |
 |!afktime| @korisnik | pokaži koliko je dugo AFK korisnik |
@@ -75,7 +76,6 @@
 |!mute | @korisnik X | mutiraj korisnika, na X minuta (X=15,30,45) |
 |!reload | / | ponovo pokretanje bot-a |
 |!skip | / | skipuj trenutnu pesmu |
-|!status | / | prikaži status bot-a |
 |!urules | @korisnik | zamoli korisnika da pročita pravila |
 |!voteratio | @korisnik | prikaži vote statistiku od korisnika |
 |!whois| @korisnik | pokaži informacije o korisniku |
