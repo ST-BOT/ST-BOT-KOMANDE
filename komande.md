@@ -37,6 +37,7 @@
 |!afkremoval | / | afk uklanjanje |
 |!autoskip | / | automatsko skipovanje pesama koje su ubagovale |
 |!cmddel | / | omogući/onemogući brisanje napisanih komandi |
+|!disable | / | isključi korisnicima Auto Join i AFK Poruku |
 |!lock | / | zaključaj waitlistu |
 |!lockdown | / | onemogući chat za korisnike (samo staff može da četuje) |
 |!maxlength | X | podesi maksimalnu dužinu pesme |
