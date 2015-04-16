@@ -37,7 +37,7 @@
 |!afkremoval | / | afk uklanjanje |
 |!autoskip | / | automatsko skipovanje pesama koje su ubagovale |
 |!cmddel | / | omogući/onemogući brisanje napisanih komandi |
-|!disable | / | isključi korisnicima Auto Join i AFK Poruku |
+|!disable | / | isključi korisnicima Auto Join |
 |!lock | / | zaključaj waitlistu |
 |!lockdown | / | onemogući chat za korisnike (samo staff može da četuje) |
 |!maxlength | X | podesi maksimalnu dužinu pesme |
@@ -46,7 +46,7 @@
 |!remove | @korisnik | ukloni korisnika sa waitliste |
 |!unban | @korisnik | NEDOSTUPNO |
 |!unmute | @korisnik | NEDOSTUPNO |
-|!roulette | / | pokreni rulet |
+|!wlroulette | / | pokreni rulet |
 |!songstats | / | omogući/onemogući statistiku pesme |
 |!unlock | / | odključaj waitlistu |
 |!historyskip | / | omogući/onemogući skipovanje istorije (TRENUTNO NE RADI) |
@@ -57,7 +57,7 @@
 
 |Komanda | Argument|  Deskripcija |
 |:------:|:---------:|:--------------------------------------:|
-|!act | / | pokaži koliko je bot aktivan |
+|!botactive | / | pokaži koliko je bot aktivan |
 |!active | X | pokaži koliko je korisnika bilo aktivno u poslednjih X minuta. |
 |!afkreset | @korisnik | restartuj AFK vreme od nekog korisnika |
 |!afktime| @korisnik | pokaži koliko je dugo AFK korisnik |
@@ -68,7 +68,7 @@
 |!eta | @korisnik | pokaži za koliko korisnik pušta |
 |!filter | / | omogući/onemogući chat filter |
 |!eng | @korisnik | zamoli korisnika da priča samo srpski ili engleski |
-|!ghostbuster | @korisnik | pokaži da li je korisnik ubagovao |
+|!ghost | @korisnik | pokaži da li je korisnik ubagovao |
 |!kick | @korisnik X | NEDOSTUPNO |
 |!motd | X | podesi MOTD interval |
 |!new | / | novo na ST BOT-u |
@@ -104,7 +104,7 @@
 |!facepalm | / | gif |
 |!sub | / | Pretplatnik (objašnjenje) |
 |!help | / | pomoć za početnike na plug-u |
-|!iroulette | / | rulet (objašnjenje) |
+|!inforoulette | / | rulet (objašnjenje) |
 |!join | / | priključi se ruletu |
 |!leave | / | izlaz iz ruleta |
 |!meh | / | ?????????? |
