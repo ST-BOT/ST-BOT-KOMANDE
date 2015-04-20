@@ -68,6 +68,7 @@
 |!eta | @korisnik | pokaži za koliko korisnik pušta |
 |!filter | / | omogući/onemogući chat filter |
 |!eng | @korisnik | zamoli korisnika da priča samo srpski ili engleski |
+|!engall | / | zamoli korisnike da pričaju samo srpski ili engleski |
 |!ghost | @korisnik | pokaži da li je korisnik ubagovao |
 |!kick | @korisnik X | NEDOSTUPNO |
 |!motd | X | podesi MOTD interval |
